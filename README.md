@@ -67,10 +67,4 @@ A estrutura estabelecida segue a seguinte ordem:
 2. **Visualização dos resultados**: Exibição dos dados por meio de uma tabela de resultado  e  gráficos para facilitar a interpretação.
 3. **Sessão de insights**: Análise dos resultados obtidos, destacando os principais aprendizados e implicações para o negócio.
 
-## Materiais para Download
 
----
-
-Todos os notebooks estarão disponíveis para download na última sessão do projeto.
-
-Também será disponibilizado o projeto completo em minha página do github.
